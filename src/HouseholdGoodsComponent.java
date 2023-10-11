@@ -1,0 +1,3 @@
+interface HouseholdGoodsComponent {
+    void displayProducts();
+}
